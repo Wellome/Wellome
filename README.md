@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wellome" alt="wellome" /></a> </p>
 
-- 🔭 I’m currently working on [learning HTML.](github.com/Wellome/)
+- 🔭 I’m currently working on making a portfolio and adding projects to it
 
-- 🌱 I’m currently learning **HTML, JS, CSS, C#**
+- 🌱 I’m currently learning **HTML, JS** and **CSS**
 
 - 👨‍💻 All of my projects are available at [github.com/Wellome](github.com/Wellome)
 
-- 📝 I regularly write articles on [nothing](nothing)
+- 📝 I regularly write articles on nothing at all.
 
 - ⚡ Fun fact **snas unertael**
 
