@@ -4,10 +4,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wellome" alt="wellome" /></a> </p>
 
-- 🌱 I’m currently learning **HTML, JS** and **CSS**
+- 👨‍💻 All of my projects are available on the page you are currently visiting [github.com/Wellome](github.com/Wellome)
 
-- 👨‍💻 All of my projects are available at [github.com/Wellome](github.com/Wellome)
+- 📝 I regularly write articles on nothing at all. Because I don't write articles.
 
-- 📝 I regularly write articles on nothing at all.
-
-- ⚡ Fun fact **snas unertael**
+- ⚡ Fun fact **'That day, if our positions were switched... Would our fates be different? Would I have your life, and you mine?**
